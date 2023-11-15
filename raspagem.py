@@ -11,7 +11,7 @@ credenciais = [
 ]
 
 # Define o nome de usuário do perfil
-username = "governoro"
+username = "perfil_para_raspagem"
 
 # Índice para acompanhar qual conta está sendo usada
 indice_conta = 0
